@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="inceptor-driver-6.0.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../inceptor-driver-6.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="jar://$PROJECT_DIR$/../../inceptor-driver-6.0.2.jar!/antlr" />
+      <root url="jar://$PROJECT_DIR$/../../inceptor-driver-6.0.2.jar!/com" />
+      <root url="jar://$PROJECT_DIR$/../../inceptor-driver-6.0.2.jar!/META-INF" />
+      <root url="jar://$PROJECT_DIR$/../../inceptor-driver-6.0.2.jar!/org" />
+    </excluded>
+  </library>
+</component>

@@ -85,7 +85,7 @@ public class Tdh {
             return Long.valueOf(value);
         } else if (typeToString.equals("StringType")) {
             return value;
-        } else if (typeToString.equals("DecimalType(32,16)")) {
+        } else if (typeToString.equals("DecimalType(32,16)")||typeToString.equals("DecimalType(10,0)")) {
 //            return Decimal.apply(value);
             return BigDecimal.valueOf(Double.valueOf(value));
         } else if (typeToString.equals("TimestampType")) {
