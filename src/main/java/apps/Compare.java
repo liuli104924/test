@@ -116,9 +116,10 @@ public class Compare {
             if (rowDataset == null || rowDataset.count() == 0) {
                 String[] columns3 = rowDataset.columns();
                 if (columns3.length != where2.columns().length) {
-                    logger.warn("比对完成无差异TDH和CDH无差异");
-                } else {
                     logger.warn("差异字段列表:" + Arrays.toString(columns3));
+
+                } else {
+                    logger.warn("比对完成无差异TDH和CDH无差异");
                 }
             }
         }
