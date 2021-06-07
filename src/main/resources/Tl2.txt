@@ -1,8 +1,0 @@
-ast_prd_secu_real_inm_secuid
-ast_prd_secu_real_union
-fin_fund_hld_info_tmp1
-fin_fund_hld_info_tmp2
-mid_l1_cal_dpsi
-mid_l1_cal_prd_dtl
-mid_l1_cal_repo_pledg
-mid_l1_cal_repo

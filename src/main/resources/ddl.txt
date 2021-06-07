@@ -1,2 +1,0 @@
-mid_l1_cal_prd_trd_assm	累计单位净值	SHR_AGGR_NVAL	NUMBER(32,16)
-mid_l2_prd_trd_assm_mkt	累计单位净值	SHR_AGGR_NVAL	NUMBER(32,16)
